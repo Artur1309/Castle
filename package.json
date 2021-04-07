@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Artur1309/castle/issues"
   },
-  "homepage": "https://github.com/Artur1309/castle#readme",
+  "homepage": "https://github.com/Artur1309/castle",
   "dependencies": {
     "phaser": "^3.54.0",
     "webpack": "^5.30.0"
