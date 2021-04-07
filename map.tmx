@@ -4,13 +4,13 @@
   <export target="map.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="map" tilewidth="16" tileheight="16" tilecount="2" columns="2">
-  <image source="images/map.png" width="32" height="16"/>
+  <image source="resources/images/map.png" width="32" height="16"/>
  </tileset>
  <tileset firstgid="3" name="resp" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="images/resp.png" width="32" height="32"/>
+  <image source="resources/images/resp.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="4" name="doors" tilewidth="32" tileheight="32" tilecount="6" columns="6">
-  <image source="images/doors.png" width="192" height="32"/>
+  <image source="resources/images/doors.png" width="192" height="32"/>
   <tile id="0" type="0"/>
   <tile id="1" type="1"/>
   <tile id="2" type="2"/>
@@ -19,7 +19,7 @@
   <tile id="5" type="5"/>
  </tileset>
  <tileset firstgid="10" name="keys" tilewidth="16" tileheight="32" tilecount="6" columns="6">
-  <image source="images/keys.png" width="96" height="32"/>
+  <image source="resources/images/keys.png" width="96" height="32"/>
   <tile id="0" type="0"/>
   <tile id="1" type="1"/>
   <tile id="2" type="2"/>
@@ -28,23 +28,23 @@
   <tile id="5" type="5"/>
  </tileset>
  <tileset firstgid="16" name="bridge" tilewidth="32" tileheight="16" tilecount="1" columns="1">
-  <image source="images/bridge.png" width="32" height="16"/>
+  <image source="resources/images/bridge.png" width="32" height="16"/>
  </tileset>
  <tileset firstgid="17" name="spikes" tilewidth="32" tileheight="32" tilecount="4" columns="4">
-  <image source="images/spikes.png" width="128" height="32"/>
+  <image source="resources/images/spikes.png" width="128" height="32"/>
   <tile id="0" type="0"/>
   <tile id="1" type="1"/>
   <tile id="2" type="2"/>
   <tile id="3" type="3"/>
  </tileset>
  <tileset firstgid="21" name="platform" tilewidth="32" tileheight="16" tilecount="1" columns="1">
-  <image source="images/platform.png" width="32" height="16"/>
+  <image source="resources/images/platform.png" width="32" height="16"/>
  </tileset>
  <tileset firstgid="22" name="scuba" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="images/scuba.png" width="32" height="32"/>
+  <image source="resources/images/scuba.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="23" name="monstrs" tilewidth="32" tileheight="32" tilecount="4" columns="4">
-  <image source="images/monstrlist.png" width="128" height="32"/>
+  <image source="resources/images/monstrlist.png" width="128" height="32"/>
   <tile id="0" type="cat"/>
   <tile id="1" type="knight"/>
   <tile id="2" type="arrow"/>

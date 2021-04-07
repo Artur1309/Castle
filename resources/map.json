@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"..\/map.json"
         }
     },
  "height":60,
